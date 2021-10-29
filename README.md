@@ -1,4 +1,4 @@
-# Azure Arc Jumpstart documentation
+# Azure Arc Jumpstart documentation Dan's Version
 
 If you are looking to explore the Jumpstart documentation, please go to the documentation website:
 
